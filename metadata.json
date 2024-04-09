@@ -1,9 +1,7 @@
-"name": "cane",
-
-"telegram ": "https://t.me/CankyBCW",
-
-"description": "I like the eigenlayer project,first time i am trying to support chain runing node ",
-
-"logo": 
-
-"twitter": "https://twitter.com/bcsvijet"
+{
+    "name": "cane",
+    "telegram": "https://t.me/CankyBCW",
+    "description": "I like the eigenlayer project, first time I am trying to support chain running node",
+  
+    "twitter": "https://twitter.com/bcsvijet"
+}
